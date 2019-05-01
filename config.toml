@@ -1,4 +1,4 @@
-baseURL = "http://stopbrexit.party/"
+baseURL = "https://kevinmarks.github.io/stopbrexit/"
 languageCode = "en-us"
 title = "Stop Brexit then Party"
 theme = "detox"
