@@ -1,0 +1,8 @@
+baseURL = "http://stopbrexit.party/"
+languageCode = "en-us"
+title = "Stop Brexit then Party"
+theme = "detox"
+publishDir = "docs"
+[params]
+  author = "Kevin Marks"
+  description = "ranking parties to vote for in the EU elections"

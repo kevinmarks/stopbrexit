@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Stop Brexit then Party</title>
+    <link>http://stopbrexit.party/posts/</link>
+    <description>Recent content in Posts on Stop Brexit then Party</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 May 2019 18:39:35 +0000</lastBuildDate>
+    
+	<atom:link href="http://stopbrexit.party/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sick of Brexit? Lets Party</title>
+      <link>http://stopbrexit.party/posts/hello/</link>
+      <pubDate>Wed, 01 May 2019 18:39:35 +0000</pubDate>
+      
+      <guid>http://stopbrexit.party/posts/hello/</guid>
+      <description>It&amp;rsquo;s been 3 years. The Brexit fanclub have been in charge of government and at the end of it we have a bad proposal and a plan to have not plans and keep us in the Brexit loop forever.</description>
+    </item>
+    
+  </channel>
+</rss>
