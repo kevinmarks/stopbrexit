@@ -1,10 +1,11 @@
 baseURL = "http://stopbrexit.party/"
 languageCode = "en-us"
-title = "Stop Brexit then Party"
+title = "Stop Brexit Party"
 theme = "detox"
 publishDir = "docs"
 [blackfriday]
   skipHTML=false
 [params]
   author = "Kevin Marks"
-  description = "ranking parties to vote for in the EU elections"
+  description = "Thursday May 23nd 7am to 10pm - you're already invited"
+  twitter_name = "StopBrexitPart1"
