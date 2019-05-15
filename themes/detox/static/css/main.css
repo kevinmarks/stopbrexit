@@ -130,8 +130,8 @@ hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:50px 0;pad
 #site-header{text-align:center;min-height:15em;padding-top:7em;margin-bottom:9em}
 @media (max-width: 800px){#site-header{padding-top:4em !important;margin-bottom:4em !important}
 }
-.blog-title{text-transform:uppercase;letter-spacing:6px;}
-.blog-description{text-transform:uppercase;letter-spacing:4px;color:#black;font-size:80%}
+.blog-title{text-transform:uppercase;}
+.blog-description{color:black;font-size:1rem}
 #blog-logo img{margin:0 auto 3em auto}
 article{margin-bottom:9em}
 article.li{margin-bottom:2em;}
@@ -140,8 +140,8 @@ article.li{margin-bottom:2em !important;}
 }
 .post-header{text-align:center}
 .post-title{margin-bottom:30px}
-.post-time{text-transform:uppercase;letter-spacing:4px;margin-bottom:30px;font-size:80%}
-.post-footer{text-align:center;text-transform:uppercase;letter-spacing:4px;font-size:80%;margin-top:30px}
+.post-time{text-transform:uppercase;margin-bottom:30px;font-size:80%}
+.post-footer{text-align:center;font-size:80%;margin-top:30px}
 .pagination{text-align:center;margin:4em 0 9em 0;color:#b3b3b3}
 @media (max-width: 800px){.pagination{margin:4em 0 6em 0 !important}
 }
