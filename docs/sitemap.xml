@@ -20,17 +20,24 @@
   </url>
   
   <url>
+    <loc>http://stopbrexit.party/tags/stopbrexitparty/</loc>
+    <lastmod>2019-05-14T10:19:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://stopbrexit.party/tags/</loc>
+    <lastmod>2019-05-14T10:19:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://stopbrexit.party/posts/hello/</loc>
     <lastmod>2019-05-01T18:39:35+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://stopbrexit.party/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://stopbrexit.party/tags/</loc>
     <priority>0</priority>
   </url>
   

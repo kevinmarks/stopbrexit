@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>StopBrexitParty on Stop Brexit Party</title>
+    <link>http://stopbrexit.party/tags/stopbrexitparty/</link>
+    <description>Recent content in StopBrexitParty on Stop Brexit Party</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 10:19:35 +0000</lastBuildDate>
+    
+	<atom:link href="http://stopbrexit.party/tags/stopbrexitparty/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sign up for the Party</title>
+      <link>http://stopbrexit.party/posts/party/</link>
+      <pubDate>Tue, 14 May 2019 10:19:35 +0000</pubDate>
+      
+      <guid>http://stopbrexit.party/posts/party/</guid>
+      <description>You should already have your invitation in the post. If you haven&amp;rsquo;t seen it or lost it, look it up here. Next, make an event for it - on Facebook, or by email - and invite your friends and neighbours.</description>
+    </item>
+    
+  </channel>
+</rss>
