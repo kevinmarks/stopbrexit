@@ -3,32 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://stopbrexit.party/posts/stop-crash-out/</loc>
+    <lastmod>2019-08-21T12:19:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://stopbrexit.party/tags/endnodeal/</loc>
+    <lastmod>2019-08-21T12:19:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://stopbrexit.party/posts/</loc>
-    <lastmod>2019-05-14T10:19:35+00:00</lastmod>
+    <lastmod>2019-08-21T12:19:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://stopbrexit.party/</loc>
+    <lastmod>2019-08-21T12:19:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://stopbrexit.party/tags/stopbrexitparty/</loc>
+    <lastmod>2019-08-21T12:19:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://stopbrexit.party/tags/</loc>
+    <lastmod>2019-08-21T12:19:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://stopbrexit.party/posts/party/</loc>
     <lastmod>2019-05-14T10:19:35+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://stopbrexit.party/</loc>
-    <lastmod>2019-05-14T10:19:35+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://stopbrexit.party/tags/stopbrexitparty/</loc>
-    <lastmod>2019-05-14T10:19:35+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://stopbrexit.party/tags/</loc>
-    <lastmod>2019-05-14T10:19:35+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -7,5 +7,5 @@ publishDir = "docs"
   skipHTML=false
 [params]
   author = "Kevin Marks"
-  description = "Thursday May 23nd 7am to 10pm - you're already invited"
+  description = "Prevent a crash-out no deal Brexit by changing the default"
   twitter_name = "StopBrexitPart1"
