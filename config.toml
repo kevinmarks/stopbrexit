@@ -1,4 +1,4 @@
-baseURL = "http://stopbrexit.party/"
+baseURL = "https://stopbrexit.party/"
 languageCode = "en-us"
 title = "Stop Brexit Party"
 theme = "detox"
